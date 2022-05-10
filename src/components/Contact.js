@@ -37,7 +37,7 @@ export default function Contact() {
                         marginHeight={0}
                         marginWidth={0}
                         style={{ filter: "opacity(0.8)" }}
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d995.3784941090673!2d98.69544031537569!3d3.6973374509067063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x303132d25af4aa3b%3A0xb869783fab20bd1f!2zM8KwNDEnNTEuNCJOIDk4wrA0MSc0Mi4yIkU!5e0!3m2!1sid!2sid!4v1652114025266!5m2!1sid!2sid"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d995.3797683772266!2d98.6726080291771!3d3.6962021998319203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x303133a0ca03a8d3%3A0x33e929204e46f11c!2sPANGKALAN%20GAS%20LPG%20EDI!5e0!3m2!1sid!2sid!4v1652148252276!5m2!1sid!2sid"
                     />
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
                         <div className="lg:w-1/2 px-6">
